@@ -11,7 +11,7 @@ Goal: Have the highest number of cards less or equal of 5.
 
 
 ## Visualization of Micro Blackjack:
-![Screenshot](Micro-Blackjack.png)
+![Screenshot](pictures/Micro-Blackjack.png)
 
 ## Visualization of learning prozess 
 ![Screenshot](Ave_reward_for_every_10000_epochs.png)
