@@ -11,10 +11,10 @@ Goal: Have the highest number of cards less or equal of 5.
 
 
 ## Visualization of Micro Blackjack:
-![Screenshot](/pictures/Ave_reward_for_every_10000_epochs.png)
+![Screenshot](/pictures/Micro-Blackjack.png)
 
 ## Visualization of learning prozess 
-![Screenshot](Ave_reward_for_every_10000_epochs.png)
+![Screenshot](/pictures/Ave_reward_for_every_10000_epochs.png)
 ## Results
 <pre>   State  q-value-stopp  q-value-draw  optimal action
 0      0      -0.250000      7.510141               1
