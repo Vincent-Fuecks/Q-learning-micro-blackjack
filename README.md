@@ -5,7 +5,7 @@
 Implementation of Q-learning for solving Micro-Blackjack. 
 
 Micro-Blackjack:
-Goal: Have the highest number of cards less or equal of 5.
+- Goal: Have the highest number of cards less or equal of 5.
 - Actions: `Stopp`You stopp drawing new cards `Draw`You draw 2,3 or 4 new additional cards (event is non-deterministic)
 - You lose if you have more than 5 cards 
 
