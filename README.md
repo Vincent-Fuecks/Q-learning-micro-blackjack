@@ -1,2 +1,2 @@
 # Q-learning-micro-blackjack
-![Screenshot](screenshot.png)
+![Screenshot](Micro-Blackjack.png)
