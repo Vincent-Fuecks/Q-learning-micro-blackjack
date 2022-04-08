@@ -14,8 +14,15 @@ Goal: Have the highest number of cards less or equal of 5.
 ![Screenshot](Micro-Blackjack.png)
 
 ## Visualization of learning prozess 
-
+![Screenshot](Ave_reward_for_every_10000_epochs.png)
 ## Results
+<pre>   State  q-value-stopp  q-value-draw  optimal action
+0      0      -0.250000      7.510141               1
+1      1      -4.518985     -2.205099               1
+2      2       4.750000      4.703329               0
+3      3       4.750000      2.119898               0
+4      4       4.750000     -0.250001               0
+</pre>
 
 ## Prerequisites
 
